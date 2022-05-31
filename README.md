@@ -41,7 +41,7 @@ The tasks defined on graph data in FL refer to [Trustworthy Graph Neural Network
 - `NC`: Node Classification.
 - `GC`: Graph Classification.
 - `R`: Recommendation.
-- 
+
 other tasks:
 - `TFF` indicates Traffic Flow Forecasting.
 
