@@ -29,7 +29,6 @@ The level of federated graph data on devices:
 - `subgraph`: each client holds a subset of graph data by overlapping or separating.
 - `graph`: each client holds a graph data or several graph data.
 
-
 **Task** 
 
 The tasks defined on graph data in FL refer to [Trustworthy Graph Neural Networks: Aspects, Methods and Trends](https://arxiv.org/pdf/2205.07424.pdf):
