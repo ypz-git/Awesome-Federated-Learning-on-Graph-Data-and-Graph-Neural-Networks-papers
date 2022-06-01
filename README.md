@@ -10,7 +10,6 @@ This is about collection of papers related with Federated Learning on Graph Data
 - [Survey and Framework papers](#Survey-and-Framework-papers)
 - [Papers](#Papers)
 
-
 ## Survey and Framework papers
 
 |Title|Year|Venue|Category|Link|
