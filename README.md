@@ -38,7 +38,7 @@ The tasks defined on graph data in FL refer to [Trustworthy Graph Neural Network
 other tasks:
 - `TFF` indicates Traffic Flow Forecasting.
 
-|Title|Year|Venue|Keywords|Level|Task |Link|Datasets|
+|Title|Year|Venue|Keywords|Level|Task|Link|Datasets|
 |:----|:---|:---:|:-------|:---:|:---:|:---|:-------|
 |A Federated Graph Neural Network Framework for Privacy-Preserving Personalization|2022|NC|recommendation, privacy-preserving|`graph`|`R`|[[paper]](https://assets.researchsquare.com/files/rs-1191595/v1_covered.pdf?c=1641937201)|MovieLens, Flixster, Douban, YahooMusic|
 |FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks|2022|preprint|communication cost, non-i.i.d|`subgraph`|`NC`|[[paper]](https://arxiv.org/pdf/2201.12433.pdf)|Cora, CiteSeer, PubMed|
@@ -54,7 +54,7 @@ other tasks:
 |Federated Graph Classification over Non-IID Graphs|2021|NIPS|non-i.i.d, cross-dataset, cross-domain|`graph`|`GC`|[[paper]](https://proceedings.neurips.cc/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)|-|
 |Federated Graph Neural Network for Cross-graph Node Classification|2021|preprint|PATE, privacy-preserving|`graph`|`NC`|[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9754598)|Citation, DBLP, ACM|
 |Federated Social Recommendation with Graph Neural Network|2021|ACM TIST|recommendation, privacy-preserving|`node`/`subgraph`|`R`|[[paper]](https://arxiv.org/pdf/2111.10778.pdf)|Ciao, Epinions, Filmtrust|
-|Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling|2021|IWQOS|traffic throttling, flow scheduling| | |[[paper]](https://ieeexplore.ieee.org/abstract/document/9521331)|Cora, PubMed, Coauthor physics, Reddit|
+|Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling|2021|IWQOS| | | |[[paper]](https://ieeexplore.ieee.org/abstract/document/9521331)|Cora, PubMed, Coauthor physics, Reddit|
 |SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks|2021|preprint|serverless, multi-task learning, non-i.i.d|`graph`|`GC`|[[paper]](https://arxiv.org/pdf/2106.02743.pdf) [[code]](https://github.com/FedML-AI/SpreadGNN)|SIDER, Tox21, MUV, QM8|
 |Subgraph Federated Learning with Missing Neighbor Generation|2021|NIPS|neighbor generation|`subgraph`|`NC`|[[paper]](https://proceedings.neurips.cc/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf)|Cora, CiteSeer, PubMed, MSAcademic|
 |GraphFederator: Federated Visual Analysis for Multi-party Graphs|2020|preprint| |`graph`|`GC`|[[paper]](https://arxiv.org/pdf/2008.11989.pdf)|DBLP, NEGP|
