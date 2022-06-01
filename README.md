@@ -18,7 +18,6 @@ This is about collection of papers related with Federated Learning on Graph Data
 |FedGraphNN: A Federated Learning Benchmark System for Graph Neural Networks|2021|ICLR|framework|[[paper]](http://www.cs.emory.edu/~jyang71/files/fedgraphnn.pdf) [[code]](https://github.com/FedML-AI/FedGraphNN)|
 |STFL: A Spatial-Temporal Federated Learning Framework for Graph Neural Networks|2021|preprint|framework|[[paper]](https://arxiv.org/pdf/2111.06750.pdf) [[code]](https://github.com/JW9MsjwjnpdRLFw/TSFL)|ISRUC_S3|
 
-
 ## Papers
 [Notice]
 
