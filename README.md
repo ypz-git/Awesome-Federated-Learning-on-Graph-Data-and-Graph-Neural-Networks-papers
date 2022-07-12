@@ -6,8 +6,8 @@
 This is about collection of papers related with Federated Learning on Graph Data and GNNs.
 
 ## Contents
-- [Survey and Framework papers](#Survey-and-Framework-papers)
-- [Papers](#Papers)
+- [Survey and Framework papers](##Survey-and-Framework-papers)
+- [Papers](##Papers)
 
 ## Survey and Framework papers
 |Title|Year|Venue|Category|Link|
